@@ -1,9 +1,8 @@
-import { useState } from "react";
+import React, { useState } from "react";
 
-export default function IslandForm({ island, updateIsland,setIsland  }) {
+export default function IslandForm({ island, updateIsland }) {
   const [type, setType] = useState("");
   const [pets, setPets] = useState("");
-
   const bookClick = () => {
     if (
       window.confirm(
