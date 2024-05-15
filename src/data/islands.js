@@ -44,7 +44,7 @@ const islands = [
   {
     id: 8,
     name: "Qaruh",
-    img: "https://news.kuwaittimes.net/website/wp-content/uploads/2021/06/local8.jpg",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN7wKqaiY4-lhfXEKKe-CWvQVnDnSlXPlEFWzBIP0a5p488i-fgl8HW8zZupVhxioZzMM&usqp=CAU",
     visitors: 0,
   },
 ];
